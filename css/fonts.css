@@ -1,11 +1,4 @@
-/* ===================================================================
- * fonts.scss
- *
- * ------------------------------------------------------------------- */
 
-/*
- * domine
-================================================================================ */
 @font-face {
   font-family: "domine-regular";
   src: url("../fonts/domine/domine-regular-webfont.woff2") format("woff2"),
@@ -21,9 +14,7 @@
   font-weight: normal;
 }
 
-/*
- * metropolis
-================================================================================ */
+
 @font-face {
   font-family: "metropolis-black";
   src: url("../fonts/metropolis/metropolis-black-webfont.woff2") format("woff2"),
@@ -171,5 +162,3 @@
   font-style: normal;
   font-weight: normal;
 }
-
-/*# sourceMappingURL=fonts.css.map */
