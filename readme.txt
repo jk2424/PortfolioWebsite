@@ -3,7 +3,7 @@
 My portfolio website to showcase my previous career and developer skills.
 HTML, CSS, JavaScript.
 
-See it online: http://janekimportfolio.herokuapp.com/
+See it online: http://janekimdeveloper.com
 
 
 
